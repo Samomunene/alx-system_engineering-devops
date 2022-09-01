@@ -1,1 +1,1 @@
-i am a file
+symbolic link bin ls
