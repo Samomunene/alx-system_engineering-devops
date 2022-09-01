@@ -1,1 +1,1 @@
-working directory goes back to the first one
+lists files that are hidden along all directories from boot
