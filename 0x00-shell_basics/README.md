@@ -1,1 +1,1 @@
-deletes betty
+deletes my first directory
