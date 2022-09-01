@@ -1,1 +1,1 @@
-i am betty
+prints groups
