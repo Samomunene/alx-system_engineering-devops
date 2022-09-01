@@ -1,1 +1,1 @@
-5-listfilesdigitonly displays content in long format with user and ids displayed numerically
+this script creates a my first directory inside tmp
