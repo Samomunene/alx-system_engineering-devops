@@ -1,1 +1,1 @@
-this script creates a my first directory inside tmp
+moves file betty to tm my first directory
