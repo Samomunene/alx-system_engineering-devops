@@ -1,1 +1,1 @@
-moves file betty to tm my first directory
+deletes betty
