@@ -1,1 +1,1 @@
-4-listmorefiles lists hidden files in a long format
+5-listfilesdigitonly displays content in long format with user and ids displayed numerically
